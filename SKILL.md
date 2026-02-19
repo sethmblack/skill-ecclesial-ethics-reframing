@@ -4,7 +4,7 @@ description: A methodology for shifting ethical questions from individualistic d
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3868
+  version: 1.0.3869
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ecclesial-ethics-reframing
